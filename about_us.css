@@ -1,0 +1,16 @@
+h1
+{
+  text-align: center;
+}
+
+ul
+{
+  font-size: 20px;
+}
+body
+{
+  /* background-image: linear-gradient(to bottom right, rgb(83, 74, 173), rgb(93, 166, 195) ); */
+  background-image: linear-gradient(to bottom right, #D8B5FF , #25b8a1 )
+}
+
+/* name, id, email, phone num, class, section, courses, clubs and activities, */
